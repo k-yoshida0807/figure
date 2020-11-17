@@ -28,9 +28,9 @@
      inkscape:window-height="1024"
      id="namedview975"
      showgrid="false"
-     inkscape:zoom="0.08838835"
-     inkscape:cx="2336.8539"
-     inkscape:cy="3630.9266"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="5623.3729"
+     inkscape:cy="2262.1841"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3113,7 +3113,7 @@
          inkscape:connector-curvature="0" />
     </marker>
     <radialGradient
-       gradientTransform="matrix(0.42586603,0,0,0.42586603,1523.9483,16.419)"
+       gradientTransform="matrix(0.48954548,0,0,0.48954548,1488.901,-3.2433024)"
        gradientUnits="userSpaceOnUse"
        r="73.449409"
        fy="258.8244"
@@ -3123,7 +3123,7 @@
        id="radialGradient5445-1-6-36"
        xlink:href="#linearGradient2098" />
     <radialGradient
-       gradientTransform="matrix(0.67863948,0,0,0.3814465,1387.0521,95.735503)"
+       gradientTransform="matrix(0.67863948,0,0,0.3814465,1387.052,95.735503)"
        gradientUnits="userSpaceOnUse"
        r="73.449409"
        fy="258.82452"
@@ -3164,7 +3164,7 @@
        xlink:href="#linearGradient2098" />
     <radialGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.46335669,3.4969691e-8,-1.9700263e-8,0.26103313,1662.1828,-73.698143)"
+       gradientTransform="matrix(0.46335669,3.4969691e-8,-1.9700263e-8,0.26103313,1662.1827,-73.698143)"
        r="107.57519"
        fy="1027.3077"
        fx="195.08813"
@@ -5123,7 +5123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8313,11 +8313,11 @@
     <circle
        inkscape:export-ydpi="450"
        inkscape:export-xdpi="450"
-       r="31.066673"
-       style="opacity:1;fill:url(#radialGradient5445-1-6-36);fill-opacity:1;fill-rule:nonzero;stroke:#aa00ef;stroke-width:0.4258661;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.11068702"
+       r="35.712051"
+       style="opacity:1;fill:url(#radialGradient5445-1-6-36);fill-opacity:1;fill-rule:nonzero;stroke:#aa00ef;stroke-width:0.48954555;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.11068702"
        id="path5437-6-0-35"
-       cx="1753.3268"
-       cy="126.64355" />
+       cx="1752.5782"
+       cy="123.46304" />
     <ellipse
        inkscape:export-ydpi="450"
        inkscape:export-xdpi="450"
@@ -8325,12 +8325,12 @@
        rx="49.506359"
        style="opacity:1;fill:url(#radialGradient5445-1-6-36-6);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient6106);stroke-width:0.50878757;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0214067"
        id="path5437-6-0-35-1"
-       cx="1752.5784"
+       cx="1752.5782"
        cy="194.46324" />
     <g
        inkscape:export-ydpi="450"
        inkscape:export-xdpi="450"
-       transform="matrix(0.46256718,0,0,0.46256718,1641.7535,-280.73562)"
+       transform="matrix(0.46256718,0,0,0.46256718,1641.7536,-280.73562)"
        id="g6124">
       <polyline
          transform="matrix(0.07603451,0,0,0.07603451,-146.64445,1092.953)"
