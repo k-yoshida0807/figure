@@ -1,3 +1,8 @@
 *.pdf
 *.png
 *.jpg
+*.jl
+makefile
+*.py
+*.eps
+*.dat
